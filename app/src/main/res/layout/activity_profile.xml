@@ -62,7 +62,7 @@
     <TextView
         android:id="@+id/posts_text"
         style="@style/profile_text"
-        android:text="posts"
+        android:text="post"
         app:layout_constraintEnd_toStartOf="@id/followers_text"
         app:layout_constraintStart_toStartOf="@id/edit_profile_btn"
         app:layout_constraintTop_toBottomOf="@id/posts_count_text" />
